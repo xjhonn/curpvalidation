@@ -1,0 +1,19 @@
+{
+  "name": "curpvalidation",
+  "version": "1.0.0",
+  "description": "Validación de Curp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjhonn/curpvalidation.git"
+  },
+  "author": "Jonatan dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjhonn/curpvalidation/issues"
+  },
+  "homepage": "https://github.com/xjhonn/curpvalidation#readme"
+}
